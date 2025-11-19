@@ -38,4 +38,6 @@ Outputs are saved in:
 ```
 data/simulations/
 ```
+© 2025 Driftroot Dynamics LLC — All rights reserved.  
+Licensed under the Apache License 2.0.
 
