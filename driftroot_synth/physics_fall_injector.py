@@ -1,10 +1,9 @@
-# =============================================================================
-# physics_fall_injector.py – Physics-Based Fall Injection for Driftroot Synth
-# Injects realistic forward falls into kinesthetic sequences using ODE physics
-# Features: Random fall timing | Damped inverted pendulum | 6-DoF injection
-# UP-Fall Compatible | ESP32 TinyML Ready
-# =============================================================================
-#
+# =====================================================================
+# Driftroot Synthetic Engine — Version 1.0
+# Author: Driftroot Dynamics
+# Purpose: Generate personalized, physics-based synthetic fall data
+# =====================================================================
+
 # Copyright 2025 Driftroot Dynamics LLC
 #
 # Licensed under the Apache License, Version 2.0 (the "License");

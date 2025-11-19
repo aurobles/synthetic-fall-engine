@@ -1,10 +1,9 @@
-# =============================================================================
-# kinesthetic_mapper.py – PCA-Based Kinesthetic Reducer for Driftroot Synth
-# Reduces 54-dim ToF point clouds to 10-dim latent vectors
-# Features: Fit-once transform-many | 2018 ToF dataset trained
-# UP-Fall Compatible | ESP32 TinyML Ready
-# =============================================================================
-#
+# =====================================================================
+# Driftroot Synthetic Engine — Version 1.0
+# Author: Driftroot Dynamics
+# Purpose: Generate personalized, physics-based synthetic fall data
+# =====================================================================
+
 # Copyright 2025 Driftroot Dynamics LLC
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
