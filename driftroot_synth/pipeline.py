@@ -48,7 +48,7 @@ SAMPLES_PER_TRIAL = 100 if not DEMO_MODE else 10
 
 # CHANGE THIS to your local path before running
 dataset_path = "path/to/UP-Fall-Dataset/Subject1"
-output_dir   = r"D:/driftroot-synth/driftroot_synth/data/simulations"
+output_dir   = r"path/to/driftroot-synth/driftroot_synth/data/simulations"
 
 os.makedirs(output_dir, exist_ok=True)
 
