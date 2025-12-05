@@ -1,11 +1,11 @@
-# Driftroot Synth Engine v1.0
+# Synthetic Fall Engine v1.0
 
 ![Version](https://img.shields.io/badge/version-v1.0-blue)
 ![License](https://img.shields.io/badge/license-Apache_2.0-green)
 ![Python](https://img.shields.io/badge/python-3.14%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
-Driftroot Synth Engine v1.0 is a physics informed synthetic fall data generator designed for Time-of-Flight (ToF) sensors. It converts real UP-Fall motion recordings into thousands of personalized synthetic fall and ADL sequences using physics based fall injection, personalized resident/environment/sensor modeling, and domain-shift scoring. Outputs include latent motion arrays and metadata-rich JSON files. The engine is fully reproducible using a fixed global seed.
+Synthetic Fall Engine v1.0 is a physics informed synthetic fall data generator designed for Time-of-Flight (ToF) sensors. It converts real UP-Fall motion recordings into thousands of personalized synthetic fall and ADL sequences using physics based fall injection, personalized resident/environment/sensor modeling, and domain-shift scoring. Outputs include latent motion arrays and metadata-rich JSON files. The engine is fully reproducible using a fixed global seed.
 
 Example metadata:
 ```json
@@ -38,6 +38,4 @@ Outputs are saved in:
 ```
 data/simulations/
 ```
-© 2025 Driftroot Dynamics LLC — All rights reserved.  
-Licensed under the Apache License 2.0.
 
