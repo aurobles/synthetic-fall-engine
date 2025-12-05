@@ -46,6 +46,6 @@ This project was my early exploration into synthetic data and simulation-driven 
 ## License
 
 Copyright @ 2025 Aurobles
-Licensed under the Apache License, Version 2.0. See [License](License) for the full
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the full
 
 
