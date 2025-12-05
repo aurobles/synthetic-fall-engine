@@ -1,6 +1,7 @@
 # Synthetic Fall Engine v1.0
 
 ![Version](https://img.shields.io/badge/version-v1.0-blue)
+![License](https://img.shields.io/badge/license-Apache_2.0-green)
 ![Python](https://img.shields.io/badge/python-3.14%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
@@ -41,4 +42,10 @@ data/simulations/
 ## **Background**
 
 This project was my early exploration into synthetic data and simulation-driven motion modeling before pivoting into edge AI systems.
+
+## License
+
+Copyright @ 2025 Aurobles
+Licensed under the Apache License, Version 2.0. See [License](License) for the full
+
 
