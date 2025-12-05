@@ -39,3 +39,7 @@ Outputs are saved in:
 data/simulations/
 ```
 
+## **Background**
+
+This project was my early exploration into synthetic data and simulation-driven motion modeling before pivoting into edge AI systems.
+
