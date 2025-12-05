@@ -1,7 +1,6 @@
 # Synthetic Fall Engine v1.0
 
 ![Version](https://img.shields.io/badge/version-v1.0-blue)
-![License](https://img.shields.io/badge/license-Apache_2.0-green)
 ![Python](https://img.shields.io/badge/python-3.14%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
