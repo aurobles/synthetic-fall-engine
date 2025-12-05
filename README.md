@@ -12,7 +12,7 @@ Example metadata:
 {
   "label": "fall_forward",
   "frames": 487,
-  "source": "driftroot-synth-v1.0",
+  "source": "synth-v1.0",
   "original_clip": "Subject1Activity08Trial2.csv",
   "domain_shift": { "mmd": 14.72, "coral": 16284.11 },
   "simulation_quality": {
